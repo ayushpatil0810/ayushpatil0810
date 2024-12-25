@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Kotlin, Android Development**
 
-- 👨‍💻 My Portfolio [https://ayushpatil0810.github.io/](https://ayushpatil0810.github.io/)
+- 👨‍💻 My Portfolio [ayushpatil0810.github.io/](ayushpatil0810.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
