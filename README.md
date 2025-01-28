@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Flutter, Mobile App Development, HTML, CSS**
 
-- 👨‍💻 My Portfolio [https://ayushpatil0810.github.io](https://ayushpatil0810.github.io)
+- 👨‍💻 My Portfolio : [https://ayushpatil0810.github.io](https://ayushpatil0810.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
