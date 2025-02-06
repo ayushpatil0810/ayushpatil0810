@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Patil</h1>
-<h3 align="center">A Student of AI&DS from India</h3>
+<h3 align="center">AI & DS Student</h3>
 
 <p align="left"> <a href="https://twitter.com/ayushpatil0810" target="blank"><img src="https://img.shields.io/twitter/follow/ayushpatil0810?logo=twitter&style=for-the-badge" alt="ayushpatil0810" /></a> </p>
 
