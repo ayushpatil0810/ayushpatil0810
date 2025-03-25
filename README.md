@@ -1,9 +1,4 @@
-<h2 align="left">Hey 👋 What's up?</h2>
-
-###
-
 <h1 align="left">I'm Ayush Patil,</h1>
-
 <h2 align="left">Student Developer, India.</h2>
 
 ###
