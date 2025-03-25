@@ -1,5 +1,5 @@
 <h1 align="left">I'm Ayush Patil,</h1>
-<h2 align="left">Student Developer, India.</h2>
+<h2 align="left">Student Developer from India.</h2>
 
 ###
 
