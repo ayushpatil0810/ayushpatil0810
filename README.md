@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn — ayushpatil0810" width="40" height="40" style="margin:0 10px" />
   </a>
   <a href="https://x.com/ayushpatil0810" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=x" alt="X (Twitter)" title="X (Twitter) — @ayushpatil0810" width="40" height="40" style="margin:0 10px" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" title="X (Twitter) — @ayushpatil0810" width="40" height="40" style="margin:0 10px" />
   </a>
   <a href="mailto:ayushppatil2006@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email — ayushppatil2006@gmail.com" width="40" height="40" style="margin:0 10px" />
