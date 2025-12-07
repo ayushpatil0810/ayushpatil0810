@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=180&section=header&text=AYUSH%20PATIL&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" />
 
-### 🚀 Aspiring AI Developer & Data Scientist | Web Developer | Exploring ML | GenAI
+### 🚀 Full Stack Developer | Exploring ML | GenAI
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Let's+build+something+great!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
