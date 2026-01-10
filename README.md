@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=180&section=header&text=AYUSH%20PATIL&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" />
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,50:667EEA,100:FF6B6B&height=200&section=header&text=AYUSH%20PATIL&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20GenAI%20Explorer&descSize=16&descAlignY=55" width="100%"/>
 
-### 🚀 Full Stack Developer | Exploring ML | GenAI
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Let's+build+something+great!+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<!-- Animated Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passion-Machine%20Learning-667EEA?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring-GenAI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 </div>
 
@@ -18,16 +20,19 @@
 
 <p align="center">
   <a href="https://instagram.com/ayushpatil0810" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Instagram — ayushpatil0810" width="40" height="40" style="margin:0 10px" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/ayushpatil0810" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn — ayushpatil0810" width="40" height="40" style="margin:0 10px" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ayushpatil0810" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" title="X (Twitter) — @ayushpatil0810" width="40" height="40" style="margin:0 10px" />
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="mailto:ayushppatil2006@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email — ayushppatil2006@gmail.com" width="40" height="40" style="margin:0 10px" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ayushpatil0810" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -139,12 +144,6 @@
   <tr>
     <td align="center" width="96">
       <a href="#ayushpatil0810">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
       </a>
       <br>Node.js
@@ -219,6 +218,12 @@
   <tr>
     <td align="center" width="96">
       <a href="#ayushpatil0810">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#ayushpatil0810">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       </a>
       <br>GitHub
@@ -281,53 +286,53 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats & Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushpatil0810&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ayushpatil0810&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> Profile Summary
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpatil0810&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=react-dark" alt="Contribution Graph" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushpatil0810&theme=radical"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpatil0810&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushpatil0810&theme=radical"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushpatil0810&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushpatil0810&theme=radical&utcOffset=5.5"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushpatil0810&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=00d9ff&line=667eea&point=ff6b6b&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
+
+
+---
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
+  
+### 👁️ Profile Views & Support
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ayushpatil0810&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/ayushpatil0810?label=Followers&style=for-the-badge&color=667eea" />
+  <img src="https://img.shields.io/github/stars/ayushpatil0810?label=Stars&style=for-the-badge&color=ff6b6b" />
+</p>
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="28"> Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 👁️ Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=ayushpatil0810&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💫 Show some ❤️ by starring some repositories!
+### 💫 If you find my work helpful, consider giving a ⭐!
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:FF6B6B&height=120&section=footer" width="100%"/>
 
 </div>
