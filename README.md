@@ -1,338 +1,36 @@
-<div align="center">
-
-<!-- Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,50:667EEA,100:FF6B6B&height=200&section=header&text=AYUSH%20PATIL&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20GenAI%20Explorer&descSize=16&descAlignY=55" width="100%"/>
-
-<!-- Animated Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passion-Machine%20Learning-667EEA?style=for-the-badge&logo=brain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploring-GenAI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🌐 Let's Connect & Collaborate
-
-<p align="center">
-  <a href="https://instagram.com/ayushpatil0810" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/ayushpatil0810" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/ayushpatil0810" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="mailto:ayushppatil2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ayushpatil0810" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-</div>
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
+<div align="center"> <!-- Dynamic Header --> <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00D9FF,50:667EEA,100:FF6B6B&height=200&section=header&text=AYUSH%20PATIL&fontSize=50&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20GenAI%20Explorer&descSize=16&descAlignY=55" width="100%"/> <!-- Animated Badges --> <p> <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Passion-Machine%20Learning-667EEA?style=for-the-badge&logo=brain&logoColor=white" /> <img src="https://img.shields.io/badge/Exploring-GenAI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" /> </p> </div> <br/> <div align="center">
+🌐 Let's Connect & Collaborate
+<p align="center"> <a href="https://instagram.com/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://linkedin.com/in/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://x.com/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" /> </a> <a href="mailto:ayushppatil2006@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p> </div> <br/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 Currently learning **full-stack applications**
-- 🌱 Learning **Machine Learning**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, APIs, Database Design**
-- 📍 Based in **Pune, Maharashtra, India**
-- ⚡ Fun fact: **I turn coffee into code** ☕️ → 💻
-
-<br clear="right"/>
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Tools
-
+🔭 Currently learning full-stack applications
+🌱 Learning Machine Learning
+👯 Looking to collaborate on Open Source Projects
+💬 Ask me about Web Development, APIs, Database Design
+📍 Based in Pune, Maharashtra, India
+⚡ Fun fact: I turn coffee into code ☕️ → 💻
+<br clear="right"/> <br/>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Tools
 <div align="center">
-
-### 💻 Languages
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-      </a>
-      <br>C
-    </td>
-  </tr>
-</table>
-
-### 🎨 Frontend Development
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      </a>
-      <br>React
-    </td><td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
-      </a>
-      <br>Vite
-    </td>
-  </tr>
-</table>
-
-### ⚙️ Backend Development
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-  </tr>
-</table>
-
-### 🗄️ Databases & Cloud
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
-      </a>
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=appwrite" width="65" height="65" alt="Appwrite" />
-      </a>
-      <br>Appwrite
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-      </a>
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
-      </a>
-      <br>Netlify
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Tools & Technologies
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" alt="NPM" />
-      </a>
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" title="PyCharm IDE" />
-      </a>
-      <br>PyCharm
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="Windows" title="Windows" />
-      </a>
-      <br>Windows
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=mint" width="65" height="65" alt="Linux Mint" title="Linux Mint" />
-      </a>
-      <br>Mint
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="#ayushpatil0810">
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats & Activity
-
+💻 Languages
+<table> <tr> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> </a> <br>JavaScript </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> </a> <br>Python </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /> </a> <br>Java </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /> </a> <br>C++ </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" /> </a> <br>C </td> </tr> </table>
+🎨 Frontend Development
+<table> <tr> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /> </a> <br>React </td><td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" /> </a> <br>HTML5 </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" /> </a> <br>CSS3 </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" /> </a> <br>Tailwind </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" /> </a> <br>Bootstrap </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" /> </a> <br>Vite </td> </tr> </table>
+⚙️ Backend Development
+<table> <tr> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" /> </a> <br>Node.js </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" /> </a> <br>Express </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" /> </a> <br>Flask </td> </tr> </table>
+🗄️ Databases & Cloud
+<table> <tr> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /> </a> <br>MySQL </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" /> </a> <br>MongoDB </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" /> </a> <br>Firebase </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" /> </a> <br>Supabase </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=appwrite" width="65" height="65" alt="Appwrite" /> </a> <br>Appwrite </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" /> </a> <br>Vercel </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" /> </a> <br>Netlify </td> </tr> </table>
+🛠️ Tools & Technologies
+<table> <tr> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /> </a> <br>Docker </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> </a> <br>GitHub </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" /> </a> <br>Git </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" alt="NPM" /> </a> <br>NPM </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" /> </a> <br>VS Code </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" title="PyCharm IDE" /> </a> <br>PyCharm </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="Windows" title="Windows" /> </a> <br>Windows </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=mint" width="65" height="65" alt="Linux Mint" title="Linux Mint" /> </a> <br>Mint </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" /> </a> <br>Postman </td> <td align="center" width="96"> <a href="#ayushpatil0810"> <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" /> </a> <br>Figma </td> </tr> </table> </div> <br/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats & Activity
+<div align="center"> <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ayushpatil0810&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" /> </div> <br/>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> Profile Summary
+<div align="center"> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushpatil0810&theme=radical"/> <br/> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpatil0810&theme=radical"/> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushpatil0810&theme=radical"/> <br/> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushpatil0810&theme=radical"/> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushpatil0810&theme=radical&utcOffset=5.5"/> </div> <br/> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=00d9ff&line=667eea&point=ff6b6b&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" width="100%" alt="Activity Graph" /> </div> <br/>
 <div align="center">
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ayushpatil0810&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> Profile Summary
-
-<div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushpatil0810&theme=radical"/>
-  <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpatil0810&theme=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushpatil0810&theme=radical"/>
-  <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushpatil0810&theme=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushpatil0810&theme=radical&utcOffset=5.5"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=00d9ff&line=667eea&point=ff6b6b&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-
-
----
-
-<div align="center">
-  
-### 👁️ Profile Views & Support
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ayushpatil0810&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/ayushpatil0810?label=Followers&style=for-the-badge&color=667eea" />
-  <img src="https://img.shields.io/github/stars/ayushpatil0810?label=Stars&style=for-the-badge&color=ff6b6b" />
-</p>
-
-<br/>
-
-### 💫 If you find my work helpful, consider giving a ⭐!
-
+👁️ Profile Views & Support
+<p> <img src="https://komarev.com/ghpvc/?username=ayushpatil0810&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/ayushpatil0810?label=Followers&style=for-the-badge&color=667eea" /> <img src="https://img.shields.io/github/stars/ayushpatil0810?label=Stars&style=for-the-badge&color=ff6b6b" /> </p> <br/>
+💫 If you find my work helpful, consider giving a ⭐!
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:FF6B6B&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:FF6B6B&height=120&section=footer" width="100%"/> </div>
