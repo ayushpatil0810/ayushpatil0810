@@ -3,6 +3,7 @@
 <p align="center"> <a href="https://instagram.com/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://linkedin.com/in/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://x.com/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" /> </a> <a href="mailto:ayushppatil2006@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p> </div> <br/>
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ## 👋 Hi, I’m Ayush Patil
 
 🎓 **AI & DS Student**  <br>
