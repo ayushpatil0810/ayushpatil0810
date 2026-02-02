@@ -3,12 +3,15 @@
 <p align="center"> <a href="https://instagram.com/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://linkedin.com/in/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://x.com/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" /> </a> <a href="mailto:ayushppatil2006@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/ayushpatil0810" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p> </div> <br/>
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🔭 Currently learning full-stack applications
-🌱 Learning Machine Learning
-👯 Looking to collaborate on Open Source Projects
-💬 Ask me about Web Development, APIs, Database Design
-📍 Based in Pune, Maharashtra, India
-⚡ Fun fact: I turn coffee into code ☕️ → 💻
+## 👋 Hi, I’m Ayush Patil
+
+🎓 **AI & DS Student**  <br>
+💻 **Full Stack Developer** <br> 
+🤖 **Exploring GenAI and ML** <br>
+🔭 Building real-world full-stack applications  
+👯 Open to **internships, & open-source collaboration**  <br>
+📍 Pune, Maharashtra, India  <br>
+⚡ Fun fact: I build because I’m passionate, not because tech is “hot” or AI is trending.
 <br clear="right"/> <br/>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Tools
 <div align="center">
@@ -29,7 +32,7 @@
 <div align="center">
 👁️ Profile Views & Support
 <p> <img src="https://komarev.com/ghpvc/?username=ayushpatil0810&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/ayushpatil0810?label=Followers&style=for-the-badge&color=667eea" /> <img src="https://img.shields.io/github/stars/ayushpatil0810?label=Stars&style=for-the-badge&color=ff6b6b" /> </p> <br/>
-💫 If you find my work helpful, consider giving a ⭐!
+💫 If you find my work helpful, consider giving a ⭐!<br>
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
 <br/><br/>
 
