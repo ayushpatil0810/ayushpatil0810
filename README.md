@@ -101,7 +101,7 @@ open_to:
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="Next.js" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
       <br>Next.js
     </td>
     <td align="center" width="96">
