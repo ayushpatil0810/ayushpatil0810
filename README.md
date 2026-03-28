@@ -89,6 +89,10 @@ open_to:
       <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
       <br>C
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart" />
+      <br>Dart
+    </td>
   </tr>
 </table>
 </div>
@@ -127,6 +131,10 @@ open_to:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
       <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
+      <br>Flutter
     </td>
   </tr>
 </table>
