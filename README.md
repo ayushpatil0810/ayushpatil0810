@@ -156,13 +156,16 @@ open_to:
       <br>Express
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
       <br>Flask
     </td>
   </tr>
 </table>
 </div>
-
 ---
 
 ### 🗄️ Databases & Cloud
@@ -214,6 +217,18 @@ open_to:
       <br>Docker
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="65" height="65" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
@@ -222,54 +237,16 @@ open_to:
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" alt="NPM" />
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" />
-      <br>PyCharm
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="Windows" />
-      <br>Windows
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mint" width="65" height="65" alt="Linux Mint" />
-      <br>Mint
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <br>Linux
     </td>
   </tr>
 </table>
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushpatil0810&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ayushpatil0810&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=FF6D00&currStreakLabel=a78bfa" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpatil0810&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
