@@ -166,6 +166,7 @@ open_to:
   </tr>
 </table>
 </div>
+
 ---
 
 ### 🗄️ Databases & Cloud
@@ -204,6 +205,7 @@ open_to:
   </tr>
 </table>
 </div>
+
 ---
 
 ### 🛠️ Tools & Technologies
@@ -246,6 +248,7 @@ open_to:
   </tr>
 </table>
 </div>
+
 ---
 
 ## 📈 Contribution Graph
@@ -255,6 +258,7 @@ open_to:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=302B63&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 
 </div>
+
 ---
 
 ## 📊 Profile Summary
@@ -270,6 +274,7 @@ open_to:
 <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushpatil0810&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
+
 ---
 
 <div align="center">
