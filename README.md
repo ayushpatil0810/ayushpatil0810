@@ -78,16 +78,8 @@ open_to:
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-      <br>C
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart" />
@@ -125,14 +117,6 @@ open_to:
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
       <br>Flutter
     </td>
@@ -158,10 +142,6 @@ open_to:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
       <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
-      <br>Flask
     </td>
   </tr>
 </table>
@@ -189,10 +169,6 @@ open_to:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
       <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=appwrite" width="65" height="65" alt="Appwrite" />
-      <br>Appwrite
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
