@@ -74,6 +74,10 @@ open_to:
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
+      <br>Go
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
