@@ -60,30 +60,186 @@ open_to:
 
 ## <img src="https://api.iconify.design/lucide/layers.svg?color=%232f81f7" width="22" /> Tech Stack & Tools
 
-<div align="center">
-
 ### <img src="https://api.iconify.design/lucide/code-2.svg?color=%232f81f7" width="18" /> Languages
-<img src="https://skillicons.dev/icons?i=js,ts,go,py,cpp,dart" alt="Languages" />
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="55" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="55" height="55" />
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="55" height="55" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="55" height="55" />
+      <br>C++
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 ### <img src="https://api.iconify.design/lucide/layout.svg?color=%232f81f7" width="18" /> Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" alt="Frontend" />
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="55" height="55" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="55" height="55" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="55" height="55" />
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 ### <img src="https://api.iconify.design/lucide/server.svg?color=%232f81f7" width="18" /> Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" />
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="55" height="55" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="55" height="55" />
+      <br>FastAPI
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 ### <img src="https://api.iconify.design/lucide/sparkles.svg?color=%232f81f7" width="18" /> GenAI & LLM Tools
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%232f81f7" alt="Google Gemini" width="48" height="48" />
+      <br>Gemini
+    </td>
+    <td align="center" width="110">
+      <img src="https://api.iconify.design/simple-icons/openai.svg?color=%232f81f7" alt="OpenAI" width="48" height="48" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="110">
+      <img src="https://api.iconify.design/simple-icons/langchain.svg?color=%232f81f7" alt="LangChain" width="48" height="48" />
+      <br>LangChain
+    </td>
+    <td align="center" width="110">
+      <img src="https://api.iconify.design/simple-icons/huggingface.svg?color=%232f81f7" alt="Hugging Face" width="48" height="48" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="110">
+      <img src="https://api.iconify.design/simple-icons/ollama.svg?color=%232f81f7" alt="Ollama" width="48" height="48" />
+      <br>Ollama
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 ### <img src="https://api.iconify.design/lucide/database.svg?color=%232f81f7" width="18" /> Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,vercel,netlify" alt="Databases and Cloud" />
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="MongoDB" width="55" height="55" />
+      <br>Postgres
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="55" height="55" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="55" height="55" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 ### <img src="https://api.iconify.design/lucide/wrench.svg?color=%232f81f7" width="18" /> Tools & Technologies
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka,github,git,postman,linux" alt="Tools and Technologies" />
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="55" height="55" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="55" height="55" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="55" height="55" />
+      <br>Kafka
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" height="55" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="55" height="55" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="55" height="55" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
