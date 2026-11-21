@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=AYUSH%20PATIL&fontSize=60&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20GenAI%20Explorer&descSize=16&descAlignY=60&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1120,50:172554,100:1E3A8A&height=220&section=header&text=AYUSH%20PATIL&fontSize=60&fontColor=2F81F7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20GenAI%20Explorer&descSize=16&descAlignY=60&descColor=2F81F7" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer+%7C+AI+%26+DS+Student;Building+production-ready+web+applications;Exploring+Machine+Learning+%26+Generative+AI;Open+to+Internships+%26+Open+Source+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer+%7C+AI+%26+DS+Student;Building+production-ready+web+applications;Exploring+Machine+Learning+%26+Generative+AI;Open+to+Internships+%26+Open+Source+Collaboration)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,21 +23,21 @@ education: B.Tech — Artificial Intelligence & Data Science
 role: Full Stack Developer
 
 currently:
-  - Developing full-stack web applications
-  - Researching Generative AI and ML systems
-  - Strengthening expertise in system design
-  - Contributing to open-source projects
+- Developing full-stack web applications
+- Researching Generative AI and ML systems
+- Strengthening expertise in system design
+- Contributing to open-source projects
 
 technical_interests:
-  - Full Stack Development
-  - Machine Learning & Deep Learning
-  - Generative AI Applications
-  - Cloud-native Architecture
+- Full Stack Development
+- Machine Learning & Deep Learning
+- Generative AI Applications
+- Cloud-native Architecture
 
 open_to:
-  - Software Engineering Internships
-  - Open Source Collaboration
-  - Freelance & Project-based Work
+- Software Engineering Internships
+- Open Source Collaboration
+- Freelance & Project-based Work
 ```
 
 <br clear="right"/>
@@ -235,7 +235,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=302B63&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -245,13 +245,13 @@ open_to:
 
 <div align="center">
 
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushpatil0810&theme=tokyonight"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushpatil0810&theme=github_dark"/>
 <br/>
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpatil0810&theme=tokyonight"/>
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushpatil0810&theme=tokyonight"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpatil0810&theme=github_dark"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushpatil0810&theme=github_dark"/>
 <br/>
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushpatil0810&theme=tokyonight"/>
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushpatil0810&theme=tokyonight&utcOffset=5.5"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushpatil0810&theme=github_dark"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushpatil0810&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
@@ -261,11 +261,11 @@ open_to:
 
 ### 👁️ Profile Views & Stats
 
-<img src="https://komarev.com/ghpvc/?username=ayushpatil0810&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ayushpatil0810&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ayushpatil0810?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/ayushpatil0810?label=Followers&style=for-the-badge&color=2f81f7&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/ayushpatil0810?label=Stars&style=for-the-badge&color=a78bfa&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/ayushpatil0810?label=Stars&style=for-the-badge&color=2f81f7&labelColor=0D1117" />
 
 <br/><br/>
 
@@ -277,4 +277,4 @@ If you find my work useful, a ⭐ on the repository is always appreciated.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2F81F7&height=130&section=footer" width="100%"/>
