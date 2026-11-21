@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1120,50:172554,100:1E3A8A&height=220&section=header&text=AYUSH%20PATIL&fontSize=60&fontColor=2F81F7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20GenAI%20Explorer&descSize=16&descAlignY=60&descColor=2F81F7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1120,50:172554,100:1E3A8A&height=220&section=header&text=AYUSH%20PATIL&fontSize=60&fontColor=2F81F7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20GenAI%20Explorer%20%E2%80%A2%20AI%20%26%20DS%20Student&descSize=16&descAlignY=60&descColor=2F81F7" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer+%7C+AI+%26+DS+Student;Building+production-ready+web+applications;Exploring+Machine+Learning+%26+Generative+AI;Open+to+Internships+%26+Open+Source+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer+%7C+AI+%26+DS+Student;Building+production-ready+web+applications;Exploring+Generative+AI+%26+Machine+Learning;Open+to+Internships+%26+Open+Source+Collaboration)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://api.iconify.design/lucide/user.svg?color=%232f81f7" width="22" /> About Me
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
@@ -24,14 +24,15 @@ role: Full Stack Developer
 
 currently:
 - Developing full-stack web applications
-- Researching Generative AI and ML systems
+- Building and experimenting with Generative AI apps
+- Learning the fundamentals of Machine Learning
 - Strengthening expertise in system design
 - Contributing to open-source projects
 
 technical_interests:
 - Full Stack Development
-- Machine Learning & Deep Learning
 - Generative AI Applications
+- Machine Learning (Exploring)
 - Cloud-native Architecture
 
 open_to:
@@ -44,214 +45,80 @@ open_to:
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://api.iconify.design/lucide/globe.svg?color=%232f81f7" width="22" /> Connect With Me
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayushpatil0810)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpatil0810)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ayushpatil0810)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayushpatil0810)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushppatil2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpatil0810)
 
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack & Tools
-
-### 💻 Languages
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart" />
-      <br>Dart
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### 🎨 Frontend Development
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
-      <br>Flutter
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### ⚙️ Backend Development
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### 🗄️ Databases & Cloud
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
-      <br>Netlify
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### 🛠️ Tools & Technologies
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="65" height="65" alt="Kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 📈 Contribution Graph
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%232f81f7" width="22" /> Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
+### <img src="https://api.iconify.design/lucide/code-2.svg?color=%232f81f7" width="18" /> Languages
+<img src="https://skillicons.dev/icons?i=js,ts,go,py,cpp,dart" alt="Languages" />
+
+### <img src="https://api.iconify.design/lucide/layout.svg?color=%232f81f7" width="18" /> Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" alt="Frontend" />
+
+### <img src="https://api.iconify.design/lucide/server.svg?color=%232f81f7" width="18" /> Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" />
+
+### <img src="https://api.iconify.design/lucide/sparkles.svg?color=%232f81f7" width="18" /> GenAI & LLM Tools
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### <img src="https://api.iconify.design/lucide/database.svg?color=%232f81f7" width="18" /> Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,vercel,netlify" alt="Databases and Cloud" />
+
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%232f81f7" width="18" /> Tools & Technologies
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka,github,git,postman,linux" alt="Tools and Technologies" />
 
 </div>
 
 ---
 
-## 📊 Profile Summary
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%232f81f7" width="22" /> Contribution Graph
 
 <div align="center">
 
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushpatil0810&theme=github_dark"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=ffffff&color=2f81f7&line=2f81f7&point=0d1117&area=true&area_color=bfdbfe&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpatil0810&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Graph" />
+</picture>
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%232f81f7" width="22" /> Profile Summary
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushpatil0810&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushpatil0810&theme=default" />
+  <img height="175em" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushpatil0810&theme=github_dark" />
+</picture>
+
 <br/>
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpatil0810&theme=github_dark"/>
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushpatil0810&theme=github_dark"/>
-<br/>
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushpatil0810&theme=github_dark"/>
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushpatil0810&theme=github_dark&utcOffset=5.5"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpatil0810&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpatil0810&theme=default" />
+  <img height="175em" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpatil0810&theme=github_dark" />
+</picture>
 
 </div>
 
@@ -259,7 +126,7 @@ open_to:
 
 <div align="center">
 
-### 👁️ Profile Views & Stats
+### <img src="https://api.iconify.design/lucide/eye.svg?color=%232f81f7" width="18" /> Profile Views & Stats
 
 <img src="https://komarev.com/ghpvc/?username=ayushpatil0810&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
@@ -269,7 +136,7 @@ open_to:
 
 <br/><br/>
 
-If you find my work useful, a ⭐ on the repository is always appreciated.
+If you find my work useful, a <img src="https://api.iconify.design/lucide/star.svg?color=%232f81f7" width="15" /> on the repository is always appreciated.
 
 <br/>
 
